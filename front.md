@@ -23,7 +23,7 @@ page_sections:
   content: 'The proposal, called the Single Use Plastics Reduction Ordinance, is composed
     of two simple rules: No polystyrene foam may be distributed, and single-use utensils
     only upon request.<br><br>See the draft of the ordinance for more detail, or see
-    the Powerpoint presentation for a brief summary of the ordinance.<br>'
+    the Powerpoint presentation for a brief summary of the ordinance. '
   media:
     image: "/uploads/2018/08/19/cities2.png"
   color: "#F8E71C"
@@ -49,4 +49,3 @@ page_sections:
 published: false
 
 ---
-What is this
