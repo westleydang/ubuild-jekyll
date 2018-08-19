@@ -1,7 +1,7 @@
 ---
 title: Front
 layout: blocks
-date: 2018-08-19 00:00:00 +0000
+date: 2018-08-19 22:26:04 +0000
 page_sections:
 - template: simple-header
   block: header-3
@@ -24,6 +24,9 @@ page_sections:
     of two simple rules: No polystyrene foam may be distributed, and single-use utensils
     only upon request.<br><br>See the draft of the ordinance for more detail, or see
     the Powerpoint presentation for a brief summary of the ordinance.<br>'
+  media:
+    image: "/uploads/2018/08/19/cities2.png"
+  color: "#F8E71C"
 - template: signup-bar
   block: cta-bar
 - template: 2-column-text
@@ -46,3 +49,4 @@ page_sections:
 published: false
 
 ---
+What is this
