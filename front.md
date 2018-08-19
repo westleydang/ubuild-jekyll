@@ -3,6 +3,9 @@ title: Front
 layout: blocks
 date: 2018-08-19 00:00:00 +0000
 page_sections:
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2018/08/19/cities2.png"
 - template: hero-banner-w-image
   block: hero-2
   headline: ''
@@ -38,8 +41,6 @@ page_sections:
   block: media-2
 - template: detail-content
   block: text-1
-- template: simple-header
-  block: header-3
 - template: simple-footer
   block: footer-1
 published: false
