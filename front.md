@@ -46,6 +46,10 @@ page_sections:
     content: 'Not to be sold or distributed: Food service ware, ice chests (or similar
       containers), beach or pool toys; dock floats, mooring buoys, anchors, and navigation
       marker; meat and fish trays, and egg cartons'
+  col_2:
+    headline: Polypropylene must be requested
+    content: 'Not to be offered or distributed: Straws, take-out containers, and utensils,
+      including, but not limited to forks, knives, and spoons.'
 published: false
 
 ---
