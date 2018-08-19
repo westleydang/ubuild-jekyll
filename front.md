@@ -21,9 +21,16 @@ page_sections:
     enabled: true
     url: https://secured.surfrider.org/action/engagement?actionId=AR0018002&id=701i00000018YoU
     button_text: Sign the Action Alert Now
+  background_image: "/uploads/2018/08/19/cities2.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: <strong><span class="pa2 bg-black lh-title">The Single Use Plastics Reduction
+    Ordinance</span></strong>
+  content: 'The proposal, called the Single Use Plastics Reduction Ordinance, is composed
+    of two simple rules: No polystyrene foam may be distributed, and single-use utensils
+    only upon request.<br><br>See the draft of the ordinance for more detail, or see
+    the Powerpoint presentation for a brief summary of the ordinance.<br>'
 - template: signup-bar
   block: cta-bar
 - template: 2-column-media-element
