@@ -3,6 +3,11 @@ title: Front
 layout: blocks
 date: 2018-08-19 22:26:04 +0000
 page_sections:
+- template: text-only-hero-banner
+  block: hero-1
+  heading: <strong><span class="bg-white pa2 black tracked-tight">Make <img src="http://www.fightthefoam.org/sd-logo.png">next
+    to ban the foam!<br><br><img src="/uploads/2018/08/19/cities2.png"></span></strong>
+- template: text-column
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -38,8 +43,6 @@ page_sections:
   block: footer-1
 - template: text-only-hero-banner
   block: hero-1
-  heading: <strong><span class="bg-white pa2 black tracked-tight">Make&nbsp;<img src="http://www.fightthefoam.org/sd-logo.png">next
-    to ban the foam!</span></strong>
 published: false
 
 ---
