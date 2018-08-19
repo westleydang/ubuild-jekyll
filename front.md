@@ -3,18 +3,6 @@ title: Front
 layout: blocks
 date: 2018-08-19 22:26:04 +0000
 page_sections:
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2018/08/19/cities2.png"
-- template: hero-banner-w-image
-  block: hero-2
-  headline: ''
-  content: ''
-  cta:
-    enabled: true
-    url: https://secured.surfrider.org/action/engagement?actionId=AR0018002&id=701i00000018YoU
-    button_text: Sign the Action Alert Now
-  background_image: "/uploads/2018/08/19/cities2.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -27,8 +15,6 @@ page_sections:
   media:
     image: "/uploads/2018/08/19/cities2.png"
   color: "#F8E71C"
-- template: signup-bar
-  block: cta-bar
 - template: 2-column-text
   block: two-column-1
   col_1:
@@ -42,6 +28,10 @@ page_sections:
       including, but not limited to forks, knives, and spoons.'
 - template: 2-column-media-element
   block: media-2
+  image_1:
+    image: "/uploads/2018/08/19/noeps.jpg"
+  image_2:
+    image: "/uploads/2018/08/19/no-pp.jpg"
 - template: detail-content
   block: text-1
 - template: simple-footer
