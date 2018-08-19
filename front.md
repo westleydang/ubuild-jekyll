@@ -41,6 +41,8 @@ page_sections:
     image: "/uploads/2018/08/19/no-pp.jpg"
 - template: detail-content
   block: text-1
+  headline: Ths is a detail content headline
+  content: "<p>This is a detail content tent</p>"
 - template: simple-footer
   block: footer-1
 - template: text-only-hero-banner
