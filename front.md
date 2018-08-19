@@ -19,10 +19,20 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Sign the action alert now
-  content: Automatically send an email to every San Diego Council Member by signing
-    the Action Alert
+  content: 'The evidence is overwhelmingly clear: phasing out single use plastics
+    improves our personal well-being, environment, wildlife, and economy.<br><br>It
+    is time for San Diego to join 116 other California jurisdictions who have banned
+    expanded polystyrene foam, one of the most harmful plastics.<br><br>Tell Mayor
+    Kevin Faulconer and the San Diego City Council that you want a comprehensive ordinance
+    banning the consumption of expanded polystyrene food containers, and other disposable
+    polystyrene and polypropylene products such as utensils, and straws.<br><br><span
+    class="bg-white black">Sign the action alert to encourage the City of San Diego
+    to protect our environment, ocean and health by joining cities across the nation
+    in banning these harmful pollutants.</span><br><br>Automatically send an email
+    to every San Diego Council Member by signing the Action Alert'
   media:
     image: "/uploads/2018/08/19/action_alert.png"
+  color: "#9E2E2E"
 - template: 2-column-text
   block: two-column-1
   col_1:
