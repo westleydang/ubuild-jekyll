@@ -52,8 +52,9 @@ fields:
   label: call to action
   fields:
   - type: boolean
-    name: enable
-    label: enable
+    name: enabled
+    label: enabled
+    default: true
   - type: text
     name: url
     label: url
