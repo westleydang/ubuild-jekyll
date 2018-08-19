@@ -3,9 +3,6 @@ title: Front
 layout: blocks
 date: 2018-08-19 22:26:04 +0000
 page_sections:
-- template: text-column
-  headline: What is a text column
-  content: This is a text column dude
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -46,6 +43,10 @@ page_sections:
   block: hero-1
 - template: hero-banner-w-image
   block: hero-2
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/06/21/drone-photo.jpeg"
+  caption: full width media element
 published: false
 
 ---
