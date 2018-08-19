@@ -37,6 +37,15 @@ page_sections:
   block: media-2
 - template: detail-content
   block: text-1
+- template: simple-header
+  block: header-3
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: No Polystyrene Foam
+    content: 'Not to be sold or distributed: Food service ware, ice chests (or similar
+      containers), beach or pool toys; dock floats, mooring buoys, anchors, and navigation
+      marker; meat and fish trays, and egg cartons'
 published: false
 
 ---
