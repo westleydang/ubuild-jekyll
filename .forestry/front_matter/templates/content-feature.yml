@@ -50,6 +50,16 @@ fields:
 - type: field_group
   name: cta
   label: call to action
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: url
+    label: url
+  - type: text
+    name: button_text
+    label: button text
 - type: text
   name: url
   label: url
