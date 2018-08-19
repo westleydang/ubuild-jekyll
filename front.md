@@ -3,10 +3,6 @@ title: Front
 layout: blocks
 date: 2018-08-19 22:26:04 +0000
 page_sections:
-- template: text-only-hero-banner
-  block: hero-1
-  heading: <strong><span class="bg-white pa2 black tracked-tight">Make <img src="http://www.fightthefoam.org/sd-logo.png">next
-    to ban the foam</span></strong>
 - template: text-column
   headline: What is a text column
   content: This is a text column dude
@@ -45,6 +41,7 @@ page_sections:
   content: "<p>This is a detail content tent</p>"
 - template: simple-footer
   block: footer-1
+  content: simpel footer
 - template: text-only-hero-banner
   block: hero-1
 - template: hero-banner-w-image
