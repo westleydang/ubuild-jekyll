@@ -15,6 +15,14 @@ page_sections:
   media:
     image: "/uploads/2018/08/19/cities2.png"
   color: "#F8E71C"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Sign the action alert now
+  content: Automatically send an email to every San Diego Council Member by signing
+    the Action Alert
+  media:
+    image: "/uploads/2018/08/19/action_alert.png"
 - template: 2-column-text
   block: two-column-1
   col_1:
