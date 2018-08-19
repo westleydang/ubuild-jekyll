@@ -6,7 +6,7 @@ page_sections:
 - template: text-only-hero-banner
   block: hero-1
   heading: <strong><span class="bg-white pa2 black tracked-tight">Make <img src="http://www.fightthefoam.org/sd-logo.png">next
-    to ban the foam!<br><br><img src="/uploads/2018/08/19/cities2.png"></span></strong>
+    to ban the foam</span></strong>
 - template: text-column
 - template: content-feature
   block: feature-1
@@ -43,6 +43,8 @@ page_sections:
   block: footer-1
 - template: text-only-hero-banner
   block: hero-1
+- template: hero-banner-w-image
+  block: hero-2
 published: false
 
 ---
