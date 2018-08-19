@@ -36,6 +36,10 @@ page_sections:
   block: text-1
 - template: simple-footer
   block: footer-1
+- template: text-only-hero-banner
+  block: hero-1
+  heading: <strong><span class="bg-white pa2 black tracked-tight">Make&nbsp;<img src="http://www.fightthefoam.org/sd-logo.png">next
+    to ban the foam!</span></strong>
 published: false
 
 ---
