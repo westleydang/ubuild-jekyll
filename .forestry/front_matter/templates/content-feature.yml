@@ -47,3 +47,9 @@ fields:
   config:
     color_format: Hex
   label: color
+- type: field_group
+  name: cta
+  label: call to action
+- type: text
+  name: url
+  label: url
