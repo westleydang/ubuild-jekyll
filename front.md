@@ -37,6 +37,7 @@ page_sections:
     enable: true
     url: https://secured.surfrider.org/action/engagement?actionId=AR0018002&id=701i00000018YoU
     button_text: Sign the Action Alert
+    enabled: true
 - template: 2-column-text
   block: two-column-1
   col_1:
