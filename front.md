@@ -33,6 +33,10 @@ page_sections:
   media:
     image: "/uploads/2018/08/19/action_alert.png"
   color: "#9E2E2E"
+  cta:
+    enable: true
+    url: https://secured.surfrider.org/action/engagement?actionId=AR0018002&id=701i00000018YoU
+    button_text: Sign the Action Alert
 - template: 2-column-text
   block: two-column-1
   col_1:
