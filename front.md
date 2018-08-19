@@ -8,6 +8,8 @@ page_sections:
   heading: <strong><span class="bg-white pa2 black tracked-tight">Make <img src="http://www.fightthefoam.org/sd-logo.png">next
     to ban the foam</span></strong>
 - template: text-column
+  headline: What is a text column
+  content: This is a text column dude
 - template: content-feature
   block: feature-1
   media_alignment: Right
